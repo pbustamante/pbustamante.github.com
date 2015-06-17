@@ -10,4 +10,4 @@ image:
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-This is a blog related to software development, from now on know as Code. This blog compiles what I have found useful as a full time developer and reflects my opinions on the matter, therefore consider that every post will be my opinion and experience on the subject at hand.
+This is a blog related to software development, from now on know as Code. It compiles what I have found useful as a full time developer and reflects my points of view on the matter, therefore consider that every post will be my opinion and experience on the subject at hand.
