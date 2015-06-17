@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Only In Spirit
 locale:           en_US
 url:              
 
@@ -26,9 +26,9 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
+  name: Pablo Bustamante
   avatar: bio-photo.jpg
-  bio: "Describe your self."
+  bio: "Software developer"
   email: 
   disqus-shortname: 
   twitter: #username
